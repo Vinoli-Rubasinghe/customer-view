@@ -174,7 +174,6 @@
       "id": 12
     },
     {
-<<<<<<< Updated upstream
       "date": "2023-11-03",
       "selectedTime": "18:00",
       "people": 1,
@@ -195,8 +194,9 @@
       "selectedTime": "17:00",
       "people": 1,
       "userId": "785462a5-cb97-4da3-8bcb-eb0625080b2b",
-      "userName": "kk",
-=======
+      "userName": "kk"
+    },
+    {
       "date": "2023-11-04",
       "selectedTime": "07:00 PM",
       "people": 3,
@@ -218,7 +218,6 @@
       "people": 8,
       "userId": "999c7ba0-4ddf-4d36-a326-75bf9f4c237f",
       "userName": "Bimsara",
->>>>>>> Stashed changes
       "id": 15
     }
   ],
@@ -228,7 +227,6 @@
       "selectedTime": "17:00",
       "people": 3,
       "id": 11,
-<<<<<<< Updated upstream
       "userId": "591df11b-e068-4b3c-a40d-4c71c6dc0365",
       "tableNo": 10
     },
@@ -259,21 +257,6 @@
       "price": 1500,
       "image": "../src/assets/images/jason-leung-poI7DelFiVA-unsplash (1).jpg",
       "id": 8
-=======
-      "userId": "785462a5-cb97-4da3-8bcb-eb0625080b2b"
-    },
-    {
-      "date": "2023-11-04",
-      "selectedTime": "07:00 PM",
-      "people": 3,
-      "id": 13
-    },
-    {
-      "date": "2023-11-05",
-      "selectedTime": "07:00 PM",
-      "people": 8,
-      "id": 15
->>>>>>> Stashed changes
     }
   ],
   "users": [
